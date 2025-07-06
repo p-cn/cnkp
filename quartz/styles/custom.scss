@@ -1,3 +1,63 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.25em;
+}
+
+h5 {
+  font-size: 1.1em;
+}
+
+h6 {
+  font-size: 1em;
+}
+
+button.folder-button {
+  font-variant: small-caps;
+}
+
+#explorer-content ul li > a {
+  font-weight: 400;
+}
+
+li,
+ol,
+p,
+ul {
+  -ms-hyphens: none;
+  -moz-hyphens: none;
+  -webkit-hyphens: none;
+  hyphens: none;
+}
+
+p.meta {
+  font-size: 0.8em;
+}
+
+article ul li, article p {
+  padding-bottom: 8px;
+}

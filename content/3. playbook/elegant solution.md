@@ -20,7 +20,7 @@ A solution which might not be qualified as elegant, doesn't mean it is not good.
 ## Elegant solutions I found
 ### Sightwalks 
 (Found 2024-10-25)
-![[../atm/e9b107a7de82526c980c4f71e42d7649_MD5.png]]
+![[content/attachments/e9b107a7de82526c980c4f71e42d7649_MD5.png]]
 
 Source: https://www.lovethework.com/work-awards/entries/718872
 

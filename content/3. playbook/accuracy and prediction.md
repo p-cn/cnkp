@@ -9,7 +9,7 @@ date: 2024-11-04
 - In medicine and statistics, true positive and true negative mathematically describe the accuracy of a test that reports the presence or absence of a medical condition. 
 - For all testing, both diagnoses and screening, there is usually a trade-off between sensitivity and specificity, such that higher sensitivities will mean lower specificities and vice versa.
 
-![[../atm/f984a64ff517bfa1155ffe4267411fba_MD5.png]]
+![[content/attachments/f984a64ff517bfa1155ffe4267411fba_MD5.png]]
 
 
 This confusion matrix was colored from [the one on Wikipedia](https://en.wikipedia.org/wiki/Sensitivity_and_specificity#Confusion_matrix). Credits to whoever summarized these metrics to a comprehensible format.

@@ -43,7 +43,7 @@ Let’s define:
 We need to find the **probability that the taxi is actually blue given that the witness said it was blue**, .
 
 ### 2. Bayes’ Theorem Formula:
-![[../atm/6ce11fc416a6925a15a5a171ee6cb40b_MD5.png]]
+![[content/attachments/6ce11fc416a6925a15a5a171ee6cb40b_MD5.png]]
 Source: https://www.geeksforgeeks.org/real-life-applications-of-bayes-theorem
 
 P(B|W)=[P(W|B)∗P(B)]/P(W)
