@@ -12,7 +12,7 @@
 
 
 # Bad embeds (4 files)
-[[content/playbook/cognitive biases and effects]]:
+[[content/cognitive biases and effects]]:
 - (line 247): `content/attachments/62f98f78370df4a046d454afae707e4c_MD5.png`
 
 
@@ -20,7 +20,7 @@
 - (line 23): `content/attachments/e9b107a7de82526c980c4f71e42d7649_MD5.png`
 
 
-[[content/playbook/the taxicab problem]]:
+[[content/the taxicab problem]]:
 - (line 46): `content/attachments/6ce11fc416a6925a15a5a171ee6cb40b_MD5.png`
 
 
@@ -63,11 +63,11 @@
 
 
 # Wiki embeds (5 files)
-[[content/playbook/accuracy and prediction]]:
+[[content/accuracy and prediction]]:
 - (line 12): `../attachments/f984a64ff517bfa1155ffe4267411fba_MD5.png`
 
 
-[[content/playbook/cognitive biases and effects]]:
+[[content/cognitive biases and effects]]:
 - (line 247): `content/attachments/62f98f78370df4a046d454afae707e4c_MD5.png`
 
 
@@ -75,7 +75,7 @@
 - (line 23): `content/attachments/e9b107a7de82526c980c4f71e42d7649_MD5.png`
 
 
-[[content/playbook/the taxicab problem]]:
+[[content/the taxicab problem]]:
 - (line 46): `content/attachments/6ce11fc416a6925a15a5a171ee6cb40b_MD5.png`
 
 
