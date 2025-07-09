@@ -244,4 +244,4 @@ date: 2024-12-30
 <br>
 <center><font color="#3B5998">And thanks to Mr John Manoogian III for this beautiful graphic.</font></center>
 
-![[content/attachments/62f98f78370df4a046d454afae707e4c_MD5.png]]
+![content/attachments/62f98f78370df4a046d454afae707e4c\_MD5.png](../attachments/62f98f78370df4a046d454afae707e4c_MD5.png)
