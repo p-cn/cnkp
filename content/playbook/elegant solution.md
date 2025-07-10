@@ -2,7 +2,7 @@
 title: elegance
 draft: false
 tags: 
-permalink: 
+permalink: elegance
 date: 2024-10-29
 ---
 > [!TLDR]
