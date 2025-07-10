@@ -1,5 +1,5 @@
 ---
-title: 
+title: elegance
 draft: false
 tags: 
 permalink: 
