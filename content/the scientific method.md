@@ -1,6 +1,6 @@
 ---
 title: the scientific method
-draft: false
+draft: true
 tags: 
 permalink: 
 date: 2024-11-10

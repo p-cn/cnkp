@@ -1,6 +1,6 @@
 ---
 title: cognitive biases and effects
-draft: false
+draft: true
 tags: 
 permalink: 
 date: 2024-12-30

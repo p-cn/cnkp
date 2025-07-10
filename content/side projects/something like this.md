@@ -1,6 +1,6 @@
 ---
 title: something like this
-draft: false
+draft: true
 tags: 
 date: 2024-10-02
 ---

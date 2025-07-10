@@ -1,6 +1,6 @@
 ---
 title: accuracy and prediction
-draft: false
+draft: true
 tags: 
 date: 2024-11-04
 ---

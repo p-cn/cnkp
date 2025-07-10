@@ -1,6 +1,6 @@
 ---
 title: software
-draft: false
+draft: true
 tags: 
 permalink: 
 date: 2025-01-11

@@ -1,6 +1,6 @@
 ---
 title: vivaldi themes
-draft: false
+draft: true
 tags: 
 date: 2024-10-02
 permalink: vivaldi
