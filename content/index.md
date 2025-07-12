@@ -8,7 +8,7 @@ Hey there, welcome to one of my side project where I feature writing and things 
 
 You should ignore the lack of capitalization in some places.
 
-Interested in my [profile](../private/portfolio/profile.md)?
+Interested in my [profile](portfolio/profile.md)?
 
 ---
 **MOST RECENT POSTS:**
