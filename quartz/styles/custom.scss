@@ -1,6 +1,56 @@
 @use "./base.scss";
+@font-face {
+  font-family: "CNN Sans Display W04";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://db.onlinewebfonts.com/t/21555b2b18ff5a2050cab35bc73c089a.eot");
+  src: url("https://db.onlinewebfonts.com/t/21555b2b18ff5a2050cab35bc73c089a.eot?#iefix") format("embedded-opentype"),
+       url("https://db.onlinewebfonts.com/t/21555b2b18ff5a2050cab35bc73c089a.woff2") format("woff2"),
+       url("https://db.onlinewebfonts.com/t/21555b2b18ff5a2050cab35bc73c089a.woff") format("woff"),
+       url("https://db.onlinewebfonts.com/t/21555b2b18ff5a2050cab35bc73c089a.ttf") format("truetype"),
+       url("https://db.onlinewebfonts.com/t/21555b2b18ff5a2050cab35bc73c089a.svg#CNN Sans Display W04 Regular") format("svg");
+}
+
+@font-face {
+  font-family: "CNN Sans Display W04";
+  font-style: italic;
+  font-weight: 400;
+  src: url("https://db.onlinewebfonts.com/t/d17d6c0e1abcb452ffb08748a0284bdd.eot");
+  src: url("https://db.onlinewebfonts.com/t/d17d6c0e1abcb452ffb08748a0284bdd.eot?#iefix") format("embedded-opentype"),
+       url("https://db.onlinewebfonts.com/t/d17d6c0e1abcb452ffb08748a0284bdd.woff2") format("woff2"),
+       url("https://db.onlinewebfonts.com/t/d17d6c0e1abcb452ffb08748a0284bdd.woff") format("woff"),
+       url("https://db.onlinewebfonts.com/t/d17d6c0e1abcb452ffb08748a0284bdd.ttf") format("truetype"),
+       url("https://db.onlinewebfonts.com/t/d17d6c0e1abcb452ffb08748a0284bdd.svg#CNN Sans Display W04 Italic") format("svg");
+}
+
+@font-face {
+  font-family: "CNN Sans Display W04";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://db.onlinewebfonts.com/t/f8b26feec3fc56aee373d957de06759f.eot");
+  src: url("https://db.onlinewebfonts.com/t/f8b26feec3fc56aee373d957de06759f.eot?#iefix") format("embedded-opentype"),
+       url("https://db.onlinewebfonts.com/t/f8b26feec3fc56aee373d957de06759f.woff2") format("woff2"),
+       url("https://db.onlinewebfonts.com/t/f8b26feec3fc56aee373d957de06759f.woff") format("woff"),
+       url("https://db.onlinewebfonts.com/t/f8b26feec3fc56aee373d957de06759f.ttf") format("truetype"),
+       url("https://db.onlinewebfonts.com/t/f8b26feec3fc56aee373d957de06759f.svg#CNN Sans Display W04 Medium") format("svg");
+}
+
+@font-face {
+  font-family: "CNN Sans Display W04";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.eot");
+  src: url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.eot?#iefix") format("embedded-opentype"),
+       url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.woff2") format("woff2"),
+       url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.woff") format("woff"),
+       url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.ttf") format("truetype"),
+       url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.svg#CNN Sans Display W04 Bold") format("svg");
+}
 
 // put your custom CSS here!
+
+* {font-family: CNN Sans Display W04;
+line-height: 1.5em!important;}
 
 h1,
 h2,
@@ -8,8 +58,10 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: CNN Sans Display W04;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
+  font-weight: 500;
 }
 
 h1 {
