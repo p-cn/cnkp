@@ -49,8 +49,17 @@
 
 // put your custom CSS here!
 
-* {font-family: CNN Sans Display W04;
+* {font-family: CNN Sans Display W04!important;
 line-height: 1.5em!important;}
+
+div article p {
+  line-height: 2em;
+  font-size:14px;
+}
+
+a.internal {
+  font-size:14px;
+}
 
 h1,
 h2,
