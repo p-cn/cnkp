@@ -1,6 +1,6 @@
 ---
 title: the taxicab problem
-draft: true
+draft: false
 tags: 
 permalink: the-taxicab-problem
 date: 2024-10-28

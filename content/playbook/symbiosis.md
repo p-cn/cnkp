@@ -1,6 +1,6 @@
 ---
 title: symbiosis
-draft: true
+draft: false
 tags: 
 permalink: 
 date: 2024-10-30
