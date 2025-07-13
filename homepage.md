@@ -22,10 +22,7 @@ for (let group of grouped) {
 }
 ```
 
-
-
-
-# published
+### published
 ```dataviewjs
 const pages = dv.pages("").where(p => p.file.path.includes("content/") && p.draft === false);
 const grouped = pages.groupBy(p => p.file.folder);
