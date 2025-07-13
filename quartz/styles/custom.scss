@@ -1,4 +1,5 @@
 @use "./base.scss";
+/*
 @font-face {
   font-family: "CNN Sans Display W04";
   font-style: normal;
@@ -46,16 +47,11 @@
        url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.ttf") format("truetype"),
        url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.svg#CNN Sans Display W04 Bold") format("svg");
 }
-
+*/
 // put your custom CSS here!
 
-* {font-family: CNN Sans Display W04!important;
-line-height: 1.5em!important;}
 
-div article p {
-  line-height: 2em;
-  font-size:14px;
-}
+
 
 a.internal {
   font-size:14px;
@@ -67,7 +63,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: CNN Sans Display W04;
+//  font-family: CNN Sans Display W04;//
   margin-top: 1.5em;
   margin-bottom: 0.5em;
   font-weight: 500;
