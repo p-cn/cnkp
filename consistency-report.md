@@ -2,7 +2,7 @@
 No problems found
 
 # Bad embeds (1 files)
-[[content/vivaldi themes]]:
+[[content/03.side projects/vivaldi themes]]:
 - (line 53): `public/atm/c170511013ad97e5c244c264953fa8da_MD5.png`
 
 
@@ -10,7 +10,7 @@ No problems found
 No problems found
 
 # Wiki embeds (1 files)
-[[content/vivaldi themes]]:
+[[content/03.side projects/vivaldi themes]]:
 - (line 53): `public/atm/c170511013ad97e5c244c264953fa8da_MD5.png`
 
 

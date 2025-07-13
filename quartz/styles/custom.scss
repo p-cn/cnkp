@@ -1,72 +1,46 @@
 @use "./base.scss";
-/*
-@font-face {
-  font-family: "CNN Sans Display W04";
-  font-style: normal;
-  font-weight: 400;
-  src: url("https://db.onlinewebfonts.com/t/21555b2b18ff5a2050cab35bc73c089a.eot");
-  src: url("https://db.onlinewebfonts.com/t/21555b2b18ff5a2050cab35bc73c089a.eot?#iefix") format("embedded-opentype"),
-       url("https://db.onlinewebfonts.com/t/21555b2b18ff5a2050cab35bc73c089a.woff2") format("woff2"),
-       url("https://db.onlinewebfonts.com/t/21555b2b18ff5a2050cab35bc73c089a.woff") format("woff"),
-       url("https://db.onlinewebfonts.com/t/21555b2b18ff5a2050cab35bc73c089a.ttf") format("truetype"),
-       url("https://db.onlinewebfonts.com/t/21555b2b18ff5a2050cab35bc73c089a.svg#CNN Sans Display W04 Regular") format("svg");
-}
 
-@font-face {
-  font-family: "CNN Sans Display W04";
-  font-style: italic;
-  font-weight: 400;
-  src: url("https://db.onlinewebfonts.com/t/d17d6c0e1abcb452ffb08748a0284bdd.eot");
-  src: url("https://db.onlinewebfonts.com/t/d17d6c0e1abcb452ffb08748a0284bdd.eot?#iefix") format("embedded-opentype"),
-       url("https://db.onlinewebfonts.com/t/d17d6c0e1abcb452ffb08748a0284bdd.woff2") format("woff2"),
-       url("https://db.onlinewebfonts.com/t/d17d6c0e1abcb452ffb08748a0284bdd.woff") format("woff"),
-       url("https://db.onlinewebfonts.com/t/d17d6c0e1abcb452ffb08748a0284bdd.ttf") format("truetype"),
-       url("https://db.onlinewebfonts.com/t/d17d6c0e1abcb452ffb08748a0284bdd.svg#CNN Sans Display W04 Italic") format("svg");
-}
-
-@font-face {
-  font-family: "CNN Sans Display W04";
-  font-style: normal;
-  font-weight: 500;
-  src: url("https://db.onlinewebfonts.com/t/f8b26feec3fc56aee373d957de06759f.eot");
-  src: url("https://db.onlinewebfonts.com/t/f8b26feec3fc56aee373d957de06759f.eot?#iefix") format("embedded-opentype"),
-       url("https://db.onlinewebfonts.com/t/f8b26feec3fc56aee373d957de06759f.woff2") format("woff2"),
-       url("https://db.onlinewebfonts.com/t/f8b26feec3fc56aee373d957de06759f.woff") format("woff"),
-       url("https://db.onlinewebfonts.com/t/f8b26feec3fc56aee373d957de06759f.ttf") format("truetype"),
-       url("https://db.onlinewebfonts.com/t/f8b26feec3fc56aee373d957de06759f.svg#CNN Sans Display W04 Medium") format("svg");
-}
-
-@font-face {
-  font-family: "CNN Sans Display W04";
-  font-style: normal;
-  font-weight: 700;
-  src: url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.eot");
-  src: url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.eot?#iefix") format("embedded-opentype"),
-       url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.woff2") format("woff2"),
-       url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.woff") format("woff"),
-       url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.ttf") format("truetype"),
-       url("https://db.onlinewebfonts.com/t/46474131979467613ff0835c799a2720.svg#CNN Sans Display W04 Bold") format("svg");
-}
-*/
 // put your custom CSS here!
 
-
-
-
-a.internal {
-  font-size:14px;
+/* Typography Reset and Structure */
+/* Typography Reset and Structure */
+li, ol, p, ul {
+  hyphens: none;
+  -ms-hyphens: none;
+  -moz-hyphens: none;
+  -webkit-hyphens: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-//  font-family: CNN Sans Display W04;//
+p {
+  line-height: 1.5;
+  padding-bottom: 5px;
+}
+
+p.meta,
+div p time {
+  font-size: 0.8em;
+  text-transform: lowercase;
+}
+
+article ul li,
+article p {
+  padding-bottom: 8px;
+}
+
+ul li a {
+  line-height: 1.5;
+  font-weight: normal;
+}
+
+div ul li {
+  padding-bottom: 3px;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5em;
   margin-bottom: 0.5em;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 h1 {
@@ -93,6 +67,25 @@ h6 {
   font-size: 1em;
 }
 
+h1.article-title {
+  padding-bottom: 5px;
+  font-weight: 700;
+}
+
+/* Links and Buttons */
+a.internal {
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+}
+
+a.folder-title {
+  font-variant: small-caps;
+  font-weight: 400 !important;
+  font-size:1.5em!important;
+
+}
+
 button.folder-button {
   font-variant: small-caps;
 }
@@ -101,20 +94,11 @@ button.folder-button {
   font-weight: 400;
 }
 
-li,
-ol,
-p,
-ul {
-  -ms-hyphens: none;
-  -moz-hyphens: none;
-  -webkit-hyphens: none;
-  hyphens: none;
+/* Breadcrumbs and Containers */
+div.breadcrumb-element {
+  text-transform: lowercase;
 }
 
-p.meta {
-  font-size: 0.8em;
-}
-
-article ul li, article p {
-  padding-bottom: 8px;
+div.folder-container {
+  padding-bottom: 5px;
 }

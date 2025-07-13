@@ -8,7 +8,7 @@ Hey there, welcome to one of my side project where I feature writing and things 
 
 You should ignore the lack of capitalization in some places.
 
-Interested in my [profile](portfolio/profile.md)?
+Interested in my [profile](01.portfolio/profile.md)?
 
 ---
 **MOST RECENT POSTS:**
@@ -20,4 +20,4 @@ Interested in my [profile](portfolio/profile.md)?
 
 
 ---
-You may also wanna build [something like this](something%20like%20this.md)?
+You may also wanna build [something like this](03.side%20projects/something%20like%20this.md)?
