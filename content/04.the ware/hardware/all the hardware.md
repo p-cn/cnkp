@@ -24,8 +24,6 @@ thinkpad T480s
 hp probook 4430s
 ### tablets
 mi pad 5
-
-
 ### e-readers
 boox note air 4 C
 

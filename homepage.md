@@ -33,6 +33,3 @@ for (let group of grouped) {
 }
 ```
 
-
-
-
