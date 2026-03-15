@@ -1,6 +1,6 @@
 ---
 title: "font naming: structural inconsistency across operating systems"
-draft: true
+draft: false
 tags:
 permalink:
 date: 2026-01-14
