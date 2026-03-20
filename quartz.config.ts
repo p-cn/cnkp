@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Zalando Sans",
-        body: "Zalando Sans",
+        body: "Zalando Sans SemiExpanded",
         code: "Geist Mono",
       },
       colors: {
