@@ -1,10 +1,12 @@
 ---
-title: "font naming: structural inconsistency across operating systems"
+title: font naming
 draft: false
 tags:
 permalink:
 date: 2026-01-14
 ---
+
+> systemic failure: structural inconsistency across operating systems
 
 Standards that evolve incrementally under the pressure of backward compatibility rarely remain coherent. Font naming across operating systems illustrates this clearly. 
 
