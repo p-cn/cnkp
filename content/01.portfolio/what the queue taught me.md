@@ -5,7 +5,6 @@ tags:
 permalink:
 date: 2026-01-14
 ---
-
 > On building a full-stack career in Trust and Safety — from the moderation queue to platform governance, and why the path through the bottom matters.
 
 My first job in Trust and Safety was content moderation. The job description was straightforward: review content, apply the guidelines, make a call. Two thousand five hundred cases a day. I didn't write the policy, build the tool, or set the thresholds. Someone else had made those decisions. My job was to execute them accurately and quickly enough that the metrics held.
